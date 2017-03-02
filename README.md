@@ -9,8 +9,12 @@
 The DVCS logo is based on a `16px ✕ 16px` grid.  2 pixels are delegated to the `master` branch and 2 pixels are delegate to the `forked` branch.
 
 <p align="center">
-    <img src="https://cdn.rawgit.com/dvcs/design/master/dvcs/dcvs-redlines.svg" />
+    <img src="https://cdn.rawgit.com/dvcs/design/master/dvcs/dvcs-redlines.svg" />
 </p>
+
+| Logo | Property | Description |
+| --- | --- | --- |
+| ![img](https://cdn.rawgit.com/dvcs/design/master/gitignore/gitignoreio.svg) | [gitignore.io](https://www.gitignore.io) | Create useful .gitignore files for your project |
 
 ## Colors
 
