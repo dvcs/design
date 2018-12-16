@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.rawgit.com/dvcs/design/master/design/design.svg" />
+    <img src="https://cdn.rawgit.com/dvcs/design/master/.github/design.svg" />
     <br>
     <small>DVCS Design Assets</small>
 </p>
